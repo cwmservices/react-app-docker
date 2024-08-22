@@ -5,7 +5,7 @@ import Card from "./components/Card";
 function App() {
   return (
     <div className="container">
-      <h1 className="title">WEB DEVELOPMENT ESSENTIALS</h1>
+      <h1 className="title">WEB DEVELOPMENT TECHNOLOGIES</h1>
       <div className="grid">
         {data.map((item) => (
           <Card
